@@ -6,4 +6,4 @@
 
 ![alt text][gif]
 
-[gif]: \images\test.gif 
+[gif]: https://github.com/avin-sharma/frozenlake/blob/master/images/test.gif
